@@ -1,87 +1,203 @@
-<h1 align="center">Hey there 👋 I'm Jari van Kaam</h1>
-<h3 align="center">aka <em>Its A Wild Syneon</em> — programmer by day, gamer by night 🎮</h3>
+<div align="center">
 
-<p align="center">
-  <em>A programming student with an analytical mind and a passion for building things that actually work.</em><br/>
-  📍 Prinsenbeek, Netherlands &nbsp;|&nbsp; 🏢 ExitZero
-</p>
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=Its%20A%20Wild%20Syneon&fontSize=50&fontColor=58a6ff&fontAlignY=35&desc=Jari%20van%20Kaam%20%7C%20Full-Stack%20Developer%20%7C%20Gamer&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
 
----
+<!-- TYPING SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+things+that+actually+work+%F0%9F%9B%A0%EF%B8%8F;From+backend+APIs+to+polished+frontends+%E2%9C%A8;Programmer+by+day%2C+gamer+by+night+%F0%9F%8E%AE" alt="Typing SVG" />
+</a>
 
-### 🧑‍💻 About Me
+<br/>
 
-- 🎓 Programming student who loves turning ideas into real, working software
-- 🔭 I enjoy building across the full stack — from backend APIs to polished frontends
-- 🧠 I believe good code is code that other developers *and* users can understand
-- 🎮 When I'm not coding, I'm probably gaming — hence the handle
+[![GitHub followers](https://img.shields.io/github/followers/jarivankaam?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=58a6ff)](https://github.com/jarivankaam)
+[![Profile Views](https://komarev.com/ghpvc/?username=jarivankaam&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)](https://github.com/jarivankaam)
 
----
+</div>
 
-### 🔧 Tech Stack
+<!-- ABOUT ME -->
+<br/>
 
-**Languages**
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarivankaam&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" alt="Top Languages" width="280"/>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## ⚡ About Me
 
-**Frameworks & Tools**
+```yaml
+name: Jari van Kaam
+handle: Its A Wild Syneon
+location: Prinsenbeek, Netherlands 🇳🇱
+company: ExitZero
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)
+role: Full-Stack Developer & Programming Student
 
----
+currently_building:
+  - Developer-friendly WordPress theme
+  - NextJS + Sanity CMS setup
 
-### 🚀 Featured Projects
+motto: >
+  Good code is code that other developers
+  AND users can understand.
+```
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**Avans Keuze Kompas**](https://github.com/Avans-Keuze-Kompas-Groep-19) | A recommendation platform helping students make informed choices — AI model, backend API, and frontend all built from scratch. | TypeScript, Next.js, NestJS, Python |
-| [**Comm-addon-openmrs**](https://github.com/jarivankaam/Comm-addon-openmrs) | A decoupled SaaS communication platform that receives appointment events from OpenMRS and routes them to external messaging providers. | Java |
-| [**Shiftpop**](https://github.com/jarivankaam/shiftpop) | The scheduling app everyone wants — fully built in Laravel as a standalone application. | PHP, Laravel |
-| [**T-sentinel-P.O.C**](https://github.com/jarivankaam/T-sentinel-P.O.C-by-Az3rAp1) | The central control hub for T-sentinel, a robot that drives a fixed route autonomously. | C# |
+<br clear="both"/>
 
 ---
 
-### 🌱 Currently Learning
+<!-- TECH STACK -->
 
-- 🎨 Building a **developer & user-friendly WordPress theme** — making WordPress theming less painful
-- ⚡ Creating a **NextJS + Sanity CMS setup** — a clean, reusable content management stack that's great for both devs and content editors
+<div align="center">
+
+## 🛠️ Tech Arsenal
+
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+<br/><b>Java</b>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
+<br/><b>C#</b>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+<br/><b>TypeScript</b>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+<br/><b>PHP</b>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" />
+<br/><b>Python</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+<br/><b>Next.js</b>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" />
+<br/><b>NestJS</b>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
+<br/><b>Laravel</b>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+<br/><b>Tailwind</b>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
+<br/><b>WordPress</b>
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-### 📊 GitHub Stats
+<!-- FEATURED PROJECTS -->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jarivankaam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarivankaam&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
-</p>
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jarivankaam&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jarivankaam&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="95%"/>
-</p>
+<a href="https://github.com/Avans-Keuze-Kompas-Groep-19">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Avans-Keuze-Kompas-Groep-19&repo=Avans-keuze-kompas-frontend&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
+</a>
+<a href="https://github.com/jarivankaam/Comm-addon-openmrs">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jarivankaam&repo=Comm-addon-openmrs&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
+</a>
+<a href="https://github.com/jarivankaam/shiftpop">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jarivankaam&repo=shiftpop&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
+</a>
+<a href="https://github.com/jarivankaam/T-sentinel-P.O.C-by-Az3rAp1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jarivankaam&repo=T-sentinel-P.O.C-by-Az3rAp1&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
+</a>
+
+</div>
 
 ---
+
+<!-- CURRENTLY LEARNING -->
+
+<div align="center">
+
+## 🌱 Currently Exploring
+
+<table>
+<tr>
+<td align="center" width="400">
+
+### 🎨 WordPress Theme Dev
+Building a developer & user-friendly theme<br/>
+that makes WordPress theming *less painful*
+
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+</td>
+<td align="center" width="400">
+
+### ⚡ NextJS + Sanity CMS
+A clean, reusable content management stack<br/>
+built for devs *and* content editors
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=flat-square&logo=sanity&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- GITHUB STATS -->
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=jarivankaam&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" alt="GitHub Stats" height="180"/>
+<br/><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jarivankaam&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
+<br/><br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jarivankaam&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" alt="Contribution Graph" width="95%"/>
+
+</div>
+
+---
+
+<!-- SNAKE -->
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%" />
+</picture>
+
+</div>
+
+---
+
+<!-- FOOTER -->
+
+<div align="center">
 
 ### 📫 Let's Connect
 
-<p align="center">
-  <a href="https://github.com/jarivankaam">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-jarivankaam-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jarivankaam)
 
-<p align="center">
-  <em>"Good software is built by people who care about the people who use it."</em>
-</p>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=120&section=footer" width="100%"/>
+
+</div>
