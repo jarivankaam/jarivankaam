@@ -104,24 +104,28 @@ motto: >
 
 <!-- FEATURED PROJECTS -->
 
+<!-- FEATURED PROJECTS -->
+ 
 ## 🚀 Featured Projects
-
+ 
 <div align="center">
-
-<a href="https://github.com/Avans-Keuze-Kompas-Groep-19">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Avans-Keuze-Kompas-Groep-19&repo=Avans-keuze-kompas-frontend&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
-</a>
 <a href="https://github.com/jarivankaam/Comm-addon-openmrs">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jarivankaam&repo=Comm-addon-openmrs&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
 </a>
 <a href="https://github.com/jarivankaam/shiftpop">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jarivankaam&repo=shiftpop&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
 </a>
-<a href="https://github.com/jarivankaam/T-sentinel-P.O.C-by-Az3rAp1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jarivankaam&repo=T-sentinel-P.O.C-by-Az3rAp1&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
-</a>
-
 </div>
+<div align="center">
+| Project | Description | Tech |
+|:--------|:------------|:-----|
+| 🧭 [**Avans Keuze Kompas**](https://github.com/Avans-Keuze-Kompas-Groep-19) | AI-powered recommendation platform helping students make informed choices — full-stack with separate AI model, backend, and frontend repos | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| 📡 [**Comm-addon-openmrs**](https://github.com/jarivankaam/Comm-addon-openmrs) | Decoupled SaaS communication platform — receives appointment events from OpenMRS and routes them to external messaging providers | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+| 📅 [**Shiftpop**](https://github.com/jarivankaam/shiftpop) | The scheduling app everyone wants — fully built in Laravel as a standalone application | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) |
+| 🤖 [**T-sentinel P.O.C**](https://github.com/jarivankaam/T-sentinel-P.O.C-by-Az3rAp1) | Central control hub for T-sentinel — a robot that autonomously drives a fixed route | ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white) |
+ 
+</div>
+---
 
 ---
 
