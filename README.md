@@ -1,12 +1,12 @@
 <div align="center">
 
-<!-- HEADER -->
+[<!-- HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=Its%20A%20Wild%20Syneon&fontSize=50&fontColor=58a6ff&fontAlignY=35&desc=Jari%20van%20Kaam%20%7C%20Full-Stack%20Developer%20%7C%20Founder@ExitZero&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+things+that+actually+work+%F0%9F%9B%A0%EF%B8%8F;From+backend+APIs+to+polished+frontends+%E2%9C%A8;" alt="Typing SVG" />
-</a>
+</a>](https://capsule-render.vercel.app/api?type=waving&color=0:EDE8DC,50:A8DEDA,100:3DBDB5&height=220&section=header&text=Its%20A%20Wild%20Syneon&fontSize=50&fontColor=1A1A1A&fontAlignY=35&desc=Jari%20van%20Kaam%20%7C%20Full-Stack%20Developer%20%7C%20Founder@ExitZero&descSize=18&descColor=2a7a76&descAlignY=55&animation=fadeIn)
 
 <br/>
 
