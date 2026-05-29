@@ -15,11 +15,6 @@
 
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/jarivankaam?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=58a6ff)](https://github.com/jarivankaam)
 [![Profile Views](https://komarev.com/ghpvc/?username=jarivankaam&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)](https://github.com/jarivankaam)
