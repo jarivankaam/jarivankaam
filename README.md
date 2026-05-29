@@ -1,18 +1,17 @@
 <div align="center">
 
-[<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=Its%20A%20Wild%20Syneon&fontSize=50&fontColor=58a6ff&fontAlignY=35&desc=Jari%20van%20Kaam%20%7C%20Full-Stack%20Developer%20%7C%20Founder@ExitZero&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EDE8DC,50:A8DEDA,100:3DBDB5&height=220&section=header&text=Its%20A%20Wild%20Syneon&fontSize=50&fontColor=1A1A1A&fontAlignY=35&desc=Jari%20van%20Kaam%20%7C%20Full-Stack%20Developer%20%7C%20Founder@ExitZero&descSize=18&descColor=2a7a76&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+things+that+actually+work+%F0%9F%9B%A0%EF%B8%8F;From+backend+APIs+to+polished+frontends+%E2%9C%A8;" alt="Typing SVG" />
-</a>](https://capsule-render.vercel.app/api?type=waving&color=0:EDE8DC,50:A8DEDA,100:3DBDB5&height=220&section=header&text=Its%20A%20Wild%20Syneon&fontSize=50&fontColor=1A1A1A&fontAlignY=35&desc=Jari%20van%20Kaam%20%7C%20Full-Stack%20Developer%20%7C%20Founder@ExitZero&descSize=18&descColor=2a7a76&descAlignY=55&animation=fadeIn)
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3DBDB5&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+things+that+actually+work+%F0%9F%9B%A0%EF%B8%8F;From+backend+APIs+to+polished+frontends+%E2%9C%A8;" alt="Typing SVG" />
+</a>
 
 <br/>
 
-
-[![GitHub followers](https://img.shields.io/github/followers/jarivankaam?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=58a6ff)](https://github.com/jarivankaam)
-[![Profile Views](https://komarev.com/ghpvc/?username=jarivankaam&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)](https://github.com/jarivankaam)
+[![GitHub followers](https://img.shields.io/github/followers/jarivankaam?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1A1A&color=3dbdb5)](https://github.com/jarivankaam)
+[![Profile Views](https://komarev.com/ghpvc/?username=jarivankaam&style=for-the-badge&color=3dbdb5&label=PROFILE+VIEWS)](https://github.com/jarivankaam)
 
 </div>
 
@@ -153,11 +152,11 @@ built for devs *and* content editors
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=jarivankaam&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" alt="GitHub Stats" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jarivankaam&show_icons=true&hide_border=true&bg_color=EDE8DC&title_color=3DBDB5&icon_color=3DBDB5&text_color=1A1A1A&count_private=true" alt="GitHub Stats" height="180"/>
 <br/><br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jarivankaam&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jarivankaam&hide_border=true&background=EDE8DC&stroke=A8DEDA&ring=3DBDB5&fire=3DBDB5&currStreakLabel=3DBDB5&currStreakNum=1A1A1A&sideNums=1A1A1A&sideLabels=2a7a76&dates=1A1A1A" alt="GitHub Streak" />
 <br/><br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jarivankaam&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" alt="Contribution Graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jarivankaam&hide_border=true&bg_color=EDE8DC&color=2a7a76&line=3DBDB5&point=1A1A1A&area=true&area_color=A8DEDA" alt="Contribution Graph" width="95%"/>
 
 </div>
 
@@ -170,7 +169,7 @@ built for devs *and* content editors
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="95%" />
 </picture>
 
 </div>
@@ -183,10 +182,10 @@ built for devs *and* content editors
 
 ### 📫 Let's Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-jarivankaam-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jarivankaam)
+[![GitHub](https://img.shields.io/badge/GitHub-jarivankaam-1A1A1A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jarivankaam)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3DBDB5,50:A8DEDA,100:EDE8DC&height=120&section=footer" width="100%"/>
 
 </div>
