@@ -6,15 +6,10 @@
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+things+that+actually+work+%F0%9F%9B%A0%EF%B8%8F;From+backend+APIs+to+polished+frontends+%E2%9C%A8;" alt="Typing SVG" />
-  <br/>
-  <br/>
-  <br/>
-  <br/>
-  <br/>
 </a>
 
 <br/>
-<br/>
+
 
 [![GitHub followers](https://img.shields.io/github/followers/jarivankaam?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=58a6ff)](https://github.com/jarivankaam)
 [![Profile Views](https://komarev.com/ghpvc/?username=jarivankaam&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)](https://github.com/jarivankaam)
